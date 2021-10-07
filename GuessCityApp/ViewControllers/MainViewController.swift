@@ -27,14 +27,14 @@ class MainViewController: UIViewController {
         red: 255/255,
         green: 255/255,
         blue: 255/255,
-        alpha: 1
+        alpha: 0.4
     )
     
     private let secondaryColor = UIColor(
         red: 25/255,
         green: 33/255,
         blue: 78/255,
-        alpha: 1
+        alpha: 0.4
     )
     
     private var cities: [City]!
