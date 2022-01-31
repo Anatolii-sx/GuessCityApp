@@ -1,3 +1,4 @@
 # Игра "Угадай город"
 
-<img src="https://user-images.githubusercontent.com/80065515/149617491-6a145532-8790-4f53-b8d1-f95b416b7d75.png" width="25%" height="25%"><img src="https://user-images.githubusercontent.com/80065515/149617800-538a07fb-3118-45f3-8f27-722e8f56e301.png" width="25%" height="25%"> <img src="https://user-images.githubusercontent.com/80065515/149617803-fa8a63f0-2e95-465f-a716-1c7c8fc3afe0.png" width="25%" height="25%"> <img src="https://user-images.githubusercontent.com/80065515/149617804-bea3787e-6e7c-41a6-80e1-295d24eafd53.png" width="25%" height="25%"> <img src="https://user-images.githubusercontent.com/80065515/149617811-14058d34-1398-476f-8f39-f8a6b2b8e000.png" width="25%" height="25%"> <img src="https://user-images.githubusercontent.com/80065515/149617815-6edc1b30-3055-41d6-854f-35d19c781a45.png" width="25%" height="25%">
+![Cities](https://user-images.githubusercontent.com/80065515/151849159-3bd2e94a-168e-4260-852d-18a72082efd0.gif)
+
